@@ -1,4 +1,5 @@
 Nordic Semiconductor nRF52 series SoC development.
+Element-14 RoadTest and Project Page https://www.element14.com/community/roadTestReviews/3413/l/taiyo-yuden-bluetooth-le-evk-review
 
 Taiyo Yuden Bluetooth® LE EVK based on Nordic nRF52811 / ARM® Cortex™-M4.
 
